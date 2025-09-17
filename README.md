@@ -57,7 +57,7 @@ Add and update personal details, work experience, education, skills, languages, 
 
 1. **Clone the repository**
 ```
-git clone https://github.com/your-username/cv-customizer.git
+git clone https://github.com/marcoslashpro/cv_automation_server.git
 cd cv-customizer
 ```
 2. **Create a virtual environment & install dependencies**
