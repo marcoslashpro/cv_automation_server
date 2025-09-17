@@ -58,7 +58,7 @@ Add and update personal details, work experience, education, skills, languages, 
 1. **Clone the repository**
 ```
 git clone https://github.com/marcoslashpro/cv_automation_server.git
-cd cv-customizer
+cd cv_automation_server
 ```
 2. **Create a virtual environment & install dependencies**
   - With uv
@@ -87,13 +87,6 @@ cd cv-customizer
   ```
   
   - Windows: [Download](https://www.libreoffice.org/download/download/)
-
-4. **Configure environment variables**
-
-  Create a `.env` file in the project root:
-  ```
-  USERNAME=your_default_username
-  ```
 
 ### ▶️ Running the App
 ```
